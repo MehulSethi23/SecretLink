@@ -1,0 +1,8 @@
+.header {
+  margin-top: 3%;
+  display: flex;
+  justify-content: flex-end;
+}
+.navblack {
+  background-color: #151c24;
+}

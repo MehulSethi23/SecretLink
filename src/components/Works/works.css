@@ -1,0 +1,26 @@
+.para {
+  display: flex;
+  color: "white";
+  margin-top: 12%;
+  margin-bottom: 3%;
+}
+
+.box {
+  margin-top: 6%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10%;
+}
+.image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

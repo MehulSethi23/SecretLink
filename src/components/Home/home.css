@@ -1,0 +1,13 @@
+.rbuttons {
+  display: flex;
+  justify-content: space-between;
+}
+.radio {
+  display: flex;
+  justify-content: space-evenly;
+}
+.button {
+  display: flex;
+  margin-left: 10px;
+  margin-right: 10px;
+}
